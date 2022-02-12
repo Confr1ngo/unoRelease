@@ -1,6 +1,4 @@
-# unoRelease
-UNO Card Game (Cpp) Releases
-### Uno RC2 Build 0208 说明文档
+### Uno RC3 Build 0209 说明文档
 
 #### 请严格按照程序要求的输入操作，否则造成电脑的损伤概不负责！
 
@@ -8,11 +6,31 @@ UNO Card Game (Cpp) Releases
 
 ---
 
+#### $\sect 0$   $\text{What's New}$
+
+##### $\sect 0.1$  修复的 $\text{Feature}$
+
+**本次更新总计修复了 $2$ 个 $\text{Feature}$。**
+
+**Beta 阶段发现的 $\text{Feature}$ （$1$）**
+
+###### $\text{UNO-0001}$  玩家被跳过或加牌时不会显示手牌数量。
+
+**RC 阶段发现的 $\text{Feature}$（$1$）**
+
+###### $\text{UNO-0002}$  人机切换颜色时颜色无增强。
+
+##### $\sect 0.2$  优化的特性
+
+###### $\text{OPT-0001}$ 优化背景配色。
+
+---
+
 #### $\sect 1$   下载和运行
 
 ##### $\sect 1.1$ 下载
 
-请从 [https://www.luogu.com.cn/problem/U203031](https://www.luogu.com.cn/problem/U203031) 下载最新的 $\textbf{RC2}$ 版本文件，包含 $\textbf{x86}$ 和 $\textbf{x64}$ 两个版本。
+请从 [https://www.luogu.com.cn/problem/U203031](https://www.luogu.com.cn/problem/U203031) 或 [https://www.github.com/gonghengjie/unoRelease/releases](https://www.github.com/gonghengjie/unoRelease/releases) 下载最新的 $\textbf{RC3}$ 版本文件，包含 $\textbf{x86}$ 和 $\textbf{x64}$ 两个版本。
 
 - 如果您的电脑为 $16\ \text{bit}$，那么你可以试试买一块新的主板。
 - 如果您的电脑为 $32\ \text{bit}$，那么你可以下载 $\textbf{x86}$ 版本。 
@@ -158,7 +176,3 @@ UNO的获胜条件是：出完自己手中所有的牌。
 - 在牌库中输入 $0$：退出牌库，进入菜单界面。
 - 在牌库中输入 $2$：喊UNO。注意：该操作不可撤销，不视为进行有效操作。
 - 在牌库中输入 $1$：打出一张牌库中的牌，该操作视为进行有效操作，当且仅当打出合法或危险牌时。注意：非法牌不可打出，危险 +4 牌可以被质疑导致您 +4。
-
----
-
-$\text{Time: 2022-02-11 15:54 ;  Version 1}$
