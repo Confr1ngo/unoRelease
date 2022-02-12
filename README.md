@@ -1,4 +1,4 @@
-### $\textbf{Uno RC4 Build 0210}$ 说明文档
+### $\textbf{Uno Release 1.0.0}$ 说明文档
 
 #### 请严格按照程序要求的输入操作，否则造成的后果作者概不负责！
 
@@ -8,21 +8,11 @@
 
 ##### $\sect 0.1$  修复的 $\text{Feature}$
 
-**本次更新总计修复了 $2$ 个 $\text{Feature}$。**
+**本次更新总计修复了 $1$ 个 $\text{Feature}$。**
 
-**RC 阶段发现的 $\text{Feature}$ （$2$）**
+**RC 阶段发现的 $\text{Feature}$ （$1$）**
 
-###### $\text{UNO-0003}$  最后一位玩家打出的 +2/+4 不会被判定。
-
-###### $\text{UNO-0004}$  黑色变色牌在屏幕上显示不下。
-
-##### $\sect 0.2$  优化的特性
-
-###### $\text{OPT-0002}$  将卡牌汉化。
-
-###### $\text{OPT-0003}$  自动整理手牌功能（设置中可调整）。
-
-###### $\text{OPT-0004}$  游戏结束后展示所有人的手牌。
+###### $\text{UNO-0005}$  当玩家未喊或错喊 UNO 时，需要按两次任意键。
 
 ---
 
@@ -30,7 +20,7 @@
 
 ##### $\sect 1.1$ 下载
 
-请从 [https://www.luogu.com.cn/problem/U203031](https://www.luogu.com.cn/problem/U203031) 或 [https://www.github.com/gonghengjie/unoRelease/releases](https://www.github.com/gonghengjie/unoRelease/releases) 下载最新的 $\textbf{RC4}$ 版本文件，包含 $\textbf{x86}$ 和 $\textbf{x64}$ 两个版本。
+请从 [https://www.luogu.com.cn/problem/U203225](https://www.luogu.com.cn/problem/U203225) 或 [https://www.github.com/gonghengjie/unoRelease/releases](https://www.github.com/gonghengjie/unoRelease/releases) 下载最新的 $\textbf{Release 1.0.0}$ 版本文件，我们提供 $\textbf{x86}$ 和 $\textbf{x64}$ 两个版本的下载。
 
 - 如果您的电脑为 $16\ \text{bit}$，那么你可以试试买一块新的主板。
 - 如果您的电脑为 $32\ \text{bit}$，那么你可以下载 $\textbf{x86}$ 版本。 
